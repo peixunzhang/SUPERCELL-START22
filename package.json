@@ -1,0 +1,16 @@
+{
+    "name": "the-emotional-grammarly",
+    "version": "0.0.1",
+    "description": "the ai dectects emotion",
+    "dependencies": {
+        "@nlpjs/basic": "^4.22.0",
+        "body-parser": "^1.19.2",
+        "dotenv": "^9.0.2",
+        "express": "^4.17.3",
+        "node-nlp": "^4.22.1",
+        "sentiment": "^5.0.2",
+        "socket.io": "^4.4.1",
+        "sugar": "^2.0.6",
+        "telebot": "^1.4.1"
+    }
+}
